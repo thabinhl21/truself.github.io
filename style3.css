@@ -1,0 +1,227 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+
+.nav
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+    
+}
+
+.nav li
+{
+    display: inline-block;
+}
+
+.nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: 'Concert One', Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+.nav li a:hover
+{
+    border: 1px solid white;
+}
+
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row
+{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.banner
+{
+    width: 80%;
+    height: 70%;
+    top: 45%;
+    left: 250px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+}
+
+.text
+{
+    width: 80%;
+    float: center;
+}
+
+.myrow
+{
+    width: 80%;
+    height: 60%;
+    top: 45%;
+    position: absolute;
+    right: 200px;
+    
+}
+.nav1
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.nav1 li
+{
+    display: inline-block;
+}
+
+.nav1 li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: 'Concert One', Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+
+.nav1 li p:hover
+{
+    border: 1px solid white;
+}
+.nav1 p{
+    text-shadow: 2px 2px rgb(78, 144, 182);
+
+}
+p{
+    float: right;
+    list-style: none;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    line-height: 1.6;
+}
+
+
+.assault
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    
+    
+  
+}
+.image1
+{
+    margin-bottom: 60px;
+    margin-top: 120px;
+    float: right;
+    margin-right: 20px;
+}
+.box1
+{
+    display:flex;
+    background-color: rgb(26, 70, 105);
+    font-family: 'Concert One', Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+
+.box2
+{
+    display:flex;
+    background-color: rgb(70, 52, 53);
+    font-family: 'Concert One', Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+
+}
+
+h1{
+    
+    top:40px;
+    text-align: center;
+    color: rgb(220, 220, 228);
+    text-shadow: 2px 2px rgb(31, 64, 141);
+
+}
+
+h2{
+
+}
+
+ol.a {
+    
+    margin-left: 50px;
+    margin-top: 10px;
+    line-height: 1.6;
+  }
+
+  .domestic
+  {
+      float: right;
+      list-style: none;
+      margin-top: 30px;
+      margin-left: 30px;
+      margin-bottom: 30px;
+     }
+  .experts
+  {
+      float: right;
+      list-style: none;
+      margin-top: 30px;
+      margin-left: 30px;
+      margin-bottom: 30px;
+      }
+
+ .ss {
+
+    background-image:linear-gradient(rgba(0,0,0,0.08),rgba(0,0,0,0.5)),url(blueocean.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+    height: 100vh;
+    background-size: cover;
+    background-position: center
+}
+
+ }
+ .main
+ {
+     background-color: cornflowerblue;
+     opacity: 10%;
+ }
+
+  .scroll
+{
+    background-image:linear-gradient(rgba(0,0,0,0.08),rgba(0,0,0,0.5)),url(girl.jpg);
+    background-repeat: no-repeat;
+  background-attachment: fixed;
+    height: 50vh;
+    background-size: cover;
+    background-position: center left;
+    
+}
+.parallax--bg
+{
+    transition: initial;
+}
+.parallax--bg2
+{
+    transition: initial;
+}
+
+h3{
+    text-align: center;
+    font-size: 30px;
+    color: rgb(220, 220, 228);
+}
+h4{
+    text-align: center;
+    font-size: 25px;
+}
