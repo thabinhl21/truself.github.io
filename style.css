@@ -1,0 +1,66 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header
+{
+    background-image:linear-gradient(rgba(0,0,0,0.08),rgba(0,0,0,0.5)),url(blueocean.jpg);
+    height: 100vh;
+    background-size: cover;
+    background-position: center
+}
+
+.nav
+{
+    float: right;
+    list-style: none;
+    margin-top: 30px;
+}
+
+.nav li
+{
+    display: inline-block;
+}
+
+.nav li a
+{
+    color: white;
+    text-decoration: none;
+    padding: 5px 20px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 17px;
+}
+
+.nav li a:hover
+{
+    border: 1px solid white;
+}
+
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row
+{
+    max-width: 1200px;
+    margin: auto;
+}
+
+.banner
+{
+    width: 80%;
+    height: 70%;
+    top: 45%;
+    left: 250px;
+    position: absolute;
+    color: white;
+    font-size: 20px;
+}
+
+.text
+{
+    width: 80%;
+    float: center;
+}

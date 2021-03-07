@@ -1,0 +1,99 @@
+.mindful-title
+{
+    width: 80%;
+    height: 70%;
+    top: 8%;
+    left: 250px;
+    position: fixed;
+    color: white;
+    font-size: 13px;
+}
+
+.mindful-text
+{
+    width: 80%;
+    float: center;
+}
+
+.guided
+{
+    width: 80%;
+    height: 70%;
+    top: 20%;
+    left: 150px;
+    position: fixed;
+    color: white;
+    font-size: 12px;
+}
+
+.guided-text1 li
+{
+    float: center;
+    margin-top: 17px;
+    margin-left: 540px;
+}
+
+.clear-mind
+{
+    position: absolute;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.clear-mind iframe
+{
+    position: absolute;
+    top: 5%;
+    right: 40%;
+    width: 20%;
+    height: 20%;
+}
+
+.guided-text2 li
+{
+    float: center;
+    margin-top: 230px;
+    margin-left: 540px;
+}
+
+.negative-t
+{
+    position: absolute;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.negative-t iframe
+{
+    position: absolute;
+    top: 34%;
+    right: 40%;
+    width: 20%;
+    height: 20%;
+}
+
+.guided-text3 li
+{
+    float: center;
+    margin-top: 450px;
+    margin-left: 540px;
+}
+
+.stress
+{
+    position: absolute;
+    width: 100%;
+    padding-bottom: 56.25%;
+    height: 0;
+}
+
+.stress iframe
+{
+    position: absolute;
+    top: 63%;
+    right: 40%;
+    width: 20%;
+    height: 20%;
+}
